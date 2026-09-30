@@ -1,0 +1,21 @@
+/*
+  RCC's portfolio: style.css
+  -------------------------------
+  This controls how the page looks. 
+*/
+
+/* ==== 1. Design tokens ====
+  "Variables" you can reuse everywhere. Change a color here and it updates across the whole site. */
+:root {
+  --paper:  #F5F6F2; 
+  --ink:    #1D2629;
+  --muted:  #5A686B;
+  --rule:   #D5DAD4;
+  --accent: #5E2A4A;
+  --accent-soft:  #EFE4EA;
+
+  --font-heading: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-body: "Intrument Sans", "Segoe UI", system-ui, sans-serif; 
+
+  --measure: 42rem; 
+}
