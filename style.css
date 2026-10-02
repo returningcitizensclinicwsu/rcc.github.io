@@ -14,7 +14,7 @@
   --accent: #798edb;
   --accent-soft:  #a6b7f7;
 
-  --font-heading: "Lilita One";
+  --font-heading: 'Lilita One', cursive, sans-serif;
   --font-body: "Intrument Sans", "Segoe UI", system-ui, sans-serif; 
 
   --measure: 42rem; 
