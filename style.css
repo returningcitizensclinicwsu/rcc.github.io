@@ -89,7 +89,7 @@ h1, h2, h3 {
 
 .nav-name {
   font-family: var(--font-heading);
-  font-size: 3rem;
+  font-size: 1.75rem;
   color: var(--ink);
   text-decoration: none;
 }
@@ -100,7 +100,7 @@ h1, h2, h3 {
   padding: 0;
   display: flex;
   gap: 1.25rem;
-  font-size: 1.75rem;
+  font-size: 0.95rem;
 }
 
 .nav-links a {
