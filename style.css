@@ -84,7 +84,6 @@ h1, h2, h3 {
   padding: 1rem 1.5rem;
   display: flex;                  /* puts the name and links side by side */
   justify-content: space-between;
-  align-items: center;
   gap: 1rem;
   flex-wrap: wrap;
 }
