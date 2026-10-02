@@ -7,11 +7,11 @@
 /* ==== 1. Design tokens ====
   "Variables" you can reuse everywhere. Change a color here and it updates across the whole site. */
 :root {
-  --paper:  #F5F6F2; 
+  --paper:  #FFFFFF; 
   --ink:    #1D2629;
   --muted:  #5A686B;
   --rule:   #D5DAD4;
-  --accent: #798edb;
+  --accent: #436b9c;
   --accent-soft:  #a6b7f7;
 
   --font-heading: 'Lilita One', cursive, sans-serif;
