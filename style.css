@@ -81,7 +81,7 @@ h1, h2, h3 {
 .nav {
   max-width: var(--measure);
   margin: 0 auto;
-  padding: 1rem 1.5rem;
+  padding: 1rem 20rem;
   display: flex;                  /* puts the name and links side by side */
   justify-content: space-between;
   gap: 1rem;
